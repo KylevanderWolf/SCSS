@@ -1,0 +1,9 @@
+
+$padding: 20px;
+$bgheader: lightgreen;
+$bgcolor: #c0eea9;
+
+@mixin styletext() {
+  color: darkgreen;
+  line-height: 2;
+}
